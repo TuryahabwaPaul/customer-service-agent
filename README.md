@@ -1,4 +1,4 @@
-# AI Sales Assistant 💼
+# AI Sales Agent 💼
 
 This AI Sales Assistant is a web-based application. It leverages a chatbot to assist users in managing sales activities, viewing sales dashboards, managing leads, and providing product recommendations. The app also supports file uploads for data processing and customizable settings.
 
