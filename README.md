@@ -2,11 +2,14 @@
 
 This AI Sales Assistant is a web-based application. It leverages a chatbot to assist users in managing sales activities, viewing sales dashboards, managing leads, and providing product recommendations. The app also supports file uploads for data processing and customizable settings.
 
-![Alt text for the image](https://raw.githubusercontent.com/TuryahabwaPaul/customer-service-agent/main/Screenshot_20241018_133748_Chrome.jpg)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TuryahabwaPaul/customer-service-agent/main/Screenshot_20241018_133748_Chrome.jpg" alt="App Screenshot" width="400"/>
+</div>
 
 
+Url
 ```bash
-Url  - https://customer-service-agent.streamlit.app/
+https://customer-service-agent.streamlit.app/
 ```
 
 ## Features
