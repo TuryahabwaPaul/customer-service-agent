@@ -1,0 +1,42 @@
+/* General UI Theme */
+body {
+    background-color: #ffffff; /* Can change to #fdfdfd or #ffecda */
+    font-family: 'Roboto', sans-serif;
+    color: #333333; /* For a neutral text color */
+  }
+  
+  .stButton>button {
+    background-color: #ff7043; /* Bright orange */
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .stTextInput>div>div>input {
+    background-color: #f3f4f6;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  /* Sidebar */
+  .stSidebar {
+    background-color: #ffecda;
+  }
+  
+  .stSidebar img {
+    margin-bottom: 20px;
+  }
+  
+  /* Graph styling */
+  .plotly-graph {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  /* Clear Chat Button */
+  .clear-button {
+    background-color: #ff7043;
+    border-radius: 10px;
+    color: white;
+  }
+  

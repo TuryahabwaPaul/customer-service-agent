@@ -1,0 +1,13 @@
+pinecone-client
+langchain
+sentence-transformers
+langchain_groq
+groq
+einops
+nomic
+numpy
+streamlit
+streamlit_option_menu
+pandas
+plotly
+python-dotenv
