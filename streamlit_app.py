@@ -51,7 +51,7 @@ if selected == "Home":
     # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
-        intro = '''Hello, I'm your AI Sales Assistant. How can I help you boost your sales performance today?'''
+        intro = '''Hi, I'm Alex, your AI Sales Assistant. How can I help you today?'''
         st.session_state.messages.append({"role": "assistant", "content": intro})
 
     # Display chat messages from history on app rerun
